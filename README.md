@@ -5,7 +5,8 @@ It may even be useful for someone.
 
 This software was written in Visual Studio Community 2019 on Windows using general libraries. Nothing special. It will run on Linux
 using compatibility layers such as "Wine". I tested it in Ubuntu, Zorin OS, and Linux Mint.
-It may be possible to run this program on the Raspberry Pi itself. I have before, but I don't remember what worked and what didn't. I'll need reports for that. All you should have to do is install MonoDevelop and the Mono libraries, run the program from the Terminal (mono "path-to-program.exe"), and you should be good to go! Good luck!
+
+It may be possible to run this program on the Raspberry Pi itself. I have before, but I don't remember what worked and what didn't. All I know is I couldn't use Wine, because it didn't work. All you should have to do is install MonoDevelop and the Mono runtime libraries, run the program from the Terminal (mono "path-to-program.exe"), and you should be good to go! Good luck!
 
 The source code and compiled binary are available in this repo. I will build an application installer for this program once it becomes
 fully ready. It will take a while.
