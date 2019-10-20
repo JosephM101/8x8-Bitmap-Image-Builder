@@ -1,0 +1,72 @@
+H:\Visual Studio Projects\Made on Windows XP with Microsoft Visual C# 2010 Express\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\bin\Debug\8x8 Bitmap Image Builder.exe
+H:\Visual Studio Projects\Made on Windows XP with Microsoft Visual C# 2010 Express\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\bin\Debug\8x8 Bitmap Image Builder.pdb
+H:\Visual Studio Projects\Made on Windows XP with Microsoft Visual C# 2010 Express\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Visual Studio Projects\Made on Windows XP with Microsoft Visual C# 2010 Express\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\_8x8_Bitmap_Image_Builder.Form1.resources
+H:\Visual Studio Projects\Made on Windows XP with Microsoft Visual C# 2010 Express\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\_8x8_Bitmap_Image_Builder.Properties.Resources.resources
+H:\Visual Studio Projects\Made on Windows XP with Microsoft Visual C# 2010 Express\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Visual Studio Projects\Made on Windows XP with Microsoft Visual C# 2010 Express\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Visual Studio Projects\Made on Windows XP with Microsoft Visual C# 2010 Express\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\8x8 Bitmap Image Builder.exe
+H:\Visual Studio Projects\Made on Windows XP with Microsoft Visual C# 2010 Express\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\8x8 Bitmap Image Builder.pdb
+H:\Visual Studio Projects\Made on Windows XP with Microsoft Visual C# 2010 Express\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\_8x8_Bitmap_Image_Builder.About.resources
+G:\Visual Studio Projects\Made on Windows XP with Microsoft Visual C# 2010 Express\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\bin\Debug\8x8 Bitmap Image Builder.exe
+G:\Visual Studio Projects\Made on Windows XP with Microsoft Visual C# 2010 Express\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\bin\Debug\8x8 Bitmap Image Builder.pdb
+G:\Visual Studio Projects\Made on Windows XP with Microsoft Visual C# 2010 Express\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\8x8 Bitmap Image Builder.csprojResolveAssemblyReference.cache
+G:\Visual Studio Projects\Made on Windows XP with Microsoft Visual C# 2010 Express\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\_8x8_Bitmap_Image_Builder.About.resources
+G:\Visual Studio Projects\Made on Windows XP with Microsoft Visual C# 2010 Express\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\_8x8_Bitmap_Image_Builder.Form1.resources
+G:\Visual Studio Projects\Made on Windows XP with Microsoft Visual C# 2010 Express\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\_8x8_Bitmap_Image_Builder.Help.Pi_Sense_HAT_Bitmap_Example.Pi_Sense_HAT_Bitmap_Example.resources
+G:\Visual Studio Projects\Made on Windows XP with Microsoft Visual C# 2010 Express\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\_8x8_Bitmap_Image_Builder.Properties.Resources.resources
+G:\Visual Studio Projects\Made on Windows XP with Microsoft Visual C# 2010 Express\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\8x8 Bitmap Image Builder.csproj.GenerateResource.Cache
+G:\Visual Studio Projects\Made on Windows XP with Microsoft Visual C# 2010 Express\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\8x8 Bitmap Image Builder.exe
+G:\Visual Studio Projects\Made on Windows XP with Microsoft Visual C# 2010 Express\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\8x8 Bitmap Image Builder.pdb
+G:\Visual Studio Projects\Made on Windows XP with Microsoft Visual C# 2010 Express\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\_8x8_Bitmap_Image_Builder.LinkViewer.resources
+G:\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\bin\Debug\8x8 Bitmap Image Builder.exe
+G:\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\bin\Debug\8x8 Bitmap Image Builder.pdb
+G:\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\8x8 Bitmap Image Builder.csprojResolveAssemblyReference.cache
+G:\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\_8x8_Bitmap_Image_Builder.About.resources
+G:\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\_8x8_Bitmap_Image_Builder.Form1.resources
+G:\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\_8x8_Bitmap_Image_Builder.LinkViewer.resources
+G:\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\_8x8_Bitmap_Image_Builder.Help.Pi_Sense_HAT_Bitmap_Example.Pi_Sense_HAT_Bitmap_Example.resources
+G:\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\_8x8_Bitmap_Image_Builder.Properties.Resources.resources
+G:\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\8x8 Bitmap Image Builder.csproj.GenerateResource.Cache
+G:\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\8x8 Bitmap Image Builder.csproj.CoreCompileInputs.cache
+G:\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\8x8 Bitmap Image Builder.exe
+G:\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\8x8 Bitmap Image Builder.pdb
+D:\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\8x8 Bitmap Image Builder.exe
+D:\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\8x8 Bitmap Image Builder.pdb
+D:\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\bin\Debug\8x8 Bitmap Image Builder.exe
+D:\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\bin\Debug\8x8 Bitmap Image Builder.pdb
+D:\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\_8x8_Bitmap_Image_Builder.About.resources
+D:\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\_8x8_Bitmap_Image_Builder.Form1.resources
+D:\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\_8x8_Bitmap_Image_Builder.LinkViewer.resources
+D:\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\_8x8_Bitmap_Image_Builder.Help.Pi_Sense_HAT_Bitmap_Example.Pi_Sense_HAT_Bitmap_Example.resources
+D:\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\_8x8_Bitmap_Image_Builder.Properties.Resources.resources
+D:\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\_8x8_Bitmap_Image_Builder.GeneratePyScript.resources
+G:\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\_8x8_Bitmap_Image_Builder.GeneratePyScript.resources
+C:\Users\jmig2\OneDrive\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\bin\Debug\8x8 Bitmap Image Builder.exe
+C:\Users\jmig2\OneDrive\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\bin\Debug\8x8 Bitmap Image Builder.pdb
+C:\Users\jmig2\OneDrive\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\8x8 Bitmap Image Builder.csprojAssemblyReference.cache
+C:\Users\jmig2\OneDrive\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\_8x8_Bitmap_Image_Builder.About.resources
+C:\Users\jmig2\OneDrive\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\_8x8_Bitmap_Image_Builder.Form1.resources
+C:\Users\jmig2\OneDrive\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\_8x8_Bitmap_Image_Builder.GeneratePyScript.resources
+C:\Users\jmig2\OneDrive\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\_8x8_Bitmap_Image_Builder.LinkViewer.resources
+C:\Users\jmig2\OneDrive\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\_8x8_Bitmap_Image_Builder.Help.Pi_Sense_HAT_Bitmap_Example.Pi_Sense_HAT_Bitmap_Example.resources
+C:\Users\jmig2\OneDrive\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\_8x8_Bitmap_Image_Builder.Properties.Resources.resources
+C:\Users\jmig2\OneDrive\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\8x8 Bitmap Image Builder.csproj.GenerateResource.cache
+C:\Users\jmig2\OneDrive\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\8x8 Bitmap Image Builder.csproj.CoreCompileInputs.cache
+C:\Users\jmig2\OneDrive\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\8x8 Bitmap Image Builder.exe
+C:\Users\jmig2\OneDrive\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\8x8 Bitmap Image Builder.pdb
+C:\Users\jmig2\OneDrive\Visual Studio\Projects\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\bin\Debug\8x8 Bitmap Image Builder.exe
+C:\Users\jmig2\OneDrive\Visual Studio\Projects\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\bin\Debug\8x8 Bitmap Image Builder.pdb
+C:\Users\jmig2\OneDrive\Visual Studio\Projects\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\8x8 Bitmap Image Builder.csprojAssemblyReference.cache
+C:\Users\jmig2\OneDrive\Visual Studio\Projects\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\_8x8_Bitmap_Image_Builder.About.resources
+C:\Users\jmig2\OneDrive\Visual Studio\Projects\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\_8x8_Bitmap_Image_Builder.Form1.resources
+C:\Users\jmig2\OneDrive\Visual Studio\Projects\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\_8x8_Bitmap_Image_Builder.GeneratePyScript.resources
+C:\Users\jmig2\OneDrive\Visual Studio\Projects\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\_8x8_Bitmap_Image_Builder.LinkViewer.resources
+C:\Users\jmig2\OneDrive\Visual Studio\Projects\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\_8x8_Bitmap_Image_Builder.Help.Pi_Sense_HAT_Bitmap_Example.Pi_Sense_HAT_Bitmap_Example.resources
+C:\Users\jmig2\OneDrive\Visual Studio\Projects\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\_8x8_Bitmap_Image_Builder.Properties.Resources.resources
+C:\Users\jmig2\OneDrive\Visual Studio\Projects\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\8x8 Bitmap Image Builder.csproj.GenerateResource.cache
+C:\Users\jmig2\OneDrive\Visual Studio\Projects\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\8x8 Bitmap Image Builder.exe
+C:\Users\jmig2\OneDrive\Visual Studio\Projects\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Debug\8x8 Bitmap Image Builder.pdb
