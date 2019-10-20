@@ -13,5 +13,3 @@ fully ready. It will take a while.
 
 Once this program is in full swing, I may upload a brief tutorial on how to use this program to my YouTube channel
 (https://www.youtube.com/channel/UCq2dUyVKyvjOQHhRAtaKgxQ). Keep a lookout for that.
-
-
