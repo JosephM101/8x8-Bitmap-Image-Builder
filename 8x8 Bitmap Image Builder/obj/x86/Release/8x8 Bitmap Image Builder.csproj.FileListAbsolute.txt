@@ -1,0 +1,23 @@
+H:\Visual Studio Projects\Made on Windows XP with Microsoft Visual C# 2010 Express\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\bin\Release\8x8 Bitmap Image Builder.exe
+H:\Visual Studio Projects\Made on Windows XP with Microsoft Visual C# 2010 Express\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\bin\Release\8x8 Bitmap Image Builder.pdb
+H:\Visual Studio Projects\Made on Windows XP with Microsoft Visual C# 2010 Express\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Release\ResolveAssemblyReference.cache
+H:\Visual Studio Projects\Made on Windows XP with Microsoft Visual C# 2010 Express\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Release\_8x8_Bitmap_Image_Builder.Form1.resources
+H:\Visual Studio Projects\Made on Windows XP with Microsoft Visual C# 2010 Express\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Release\_8x8_Bitmap_Image_Builder.Properties.Resources.resources
+H:\Visual Studio Projects\Made on Windows XP with Microsoft Visual C# 2010 Express\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Release\GenerateResource.read.1.tlog
+H:\Visual Studio Projects\Made on Windows XP with Microsoft Visual C# 2010 Express\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Release\GenerateResource.write.1.tlog
+H:\Visual Studio Projects\Made on Windows XP with Microsoft Visual C# 2010 Express\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Release\8x8 Bitmap Image Builder.exe
+H:\Visual Studio Projects\Made on Windows XP with Microsoft Visual C# 2010 Express\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Release\8x8 Bitmap Image Builder.pdb
+H:\Visual Studio Projects\Made on Windows XP with Microsoft Visual C# 2010 Express\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Release\_8x8_Bitmap_Image_Builder.About.resources
+D:\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\bin\Release\8x8 Bitmap Image Builder.exe
+D:\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\bin\Release\8x8 Bitmap Image Builder.pdb
+D:\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Release\ResolveAssemblyReference.cache
+D:\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Release\_8x8_Bitmap_Image_Builder.About.resources
+D:\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Release\_8x8_Bitmap_Image_Builder.Form1.resources
+D:\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Release\_8x8_Bitmap_Image_Builder.LinkViewer.resources
+D:\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Release\_8x8_Bitmap_Image_Builder.Help.Pi_Sense_HAT_Bitmap_Example.Pi_Sense_HAT_Bitmap_Example.resources
+D:\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Release\_8x8_Bitmap_Image_Builder.Properties.Resources.resources
+D:\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Release\GenerateResource.read.1.tlog
+D:\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Release\GenerateResource.write.1.tlog
+D:\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Release\8x8 Bitmap Image Builder.exe
+D:\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Release\8x8 Bitmap Image Builder.pdb
+D:\8x8 Bitmap Image Builder\8x8 Bitmap Image Builder\obj\x86\Release\_8x8_Bitmap_Image_Builder.GeneratePyScript.resources
