@@ -1,4 +1,4 @@
-# 8x8-Bitmap-Image-Builder
+﻿# 8x8-Bitmap-Image-Builder
 The "8x8 Bitmap Image Builder", a program that I’m writing, is designed to help out with creating a bitmap file that’s 8 by 8 pixels big,
 written originally for the RGB LED matrix that's on the Raspberry Pi Sense HAT. Thought it was a cool idea for a programming project.
 It may even be useful for someone.
@@ -11,4 +11,6 @@ The source code and compiled binary are available in this repo. I will build an 
 fully ready. It will take a while.
 
 Once this program is in full swing, I may upload a brief tutorial on how to use this program to my YouTube channel
-(https://www.youtube.com/channel/UCq2dUyVKyvjOQHhRAtaKgxQ). Keep a lookout on that.
+(https://www.youtube.com/channel/UCq2dUyVKyvjOQHhRAtaKgxQ). Keep a lookout for that.
+
+
