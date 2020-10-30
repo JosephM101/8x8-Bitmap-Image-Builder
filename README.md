@@ -1,15 +1,8 @@
 ﻿# 8x8 Bitmap Image Builder
-The "8x8 Bitmap Image Builder", a program that I’m writing, is designed to help out with creating a bitmap file that’s 8 by 8 pixels big,
-written originally for the RGB LED matrix that's on the Raspberry Pi Sense HAT. Thought it was a cool idea for a programming project.
-It may even be useful for someone.
+The "8x8 Bitmap Image Builder" is an application developed with the Raspberry Pi Sense HAT in mind. Specifically, it's 8x8 RGB LED matrix.
 
-This software was written in Visual Studio Community 2019 on Windows using general libraries. Nothing special. It will run on Linux
-using compatibility layers such as "Wine". I tested it in Ubuntu, Zorin OS, and Linux Mint.
+When you run the program, you are greeted with an 8x8 array of panels. Each panel represents a pixel. The array is a (crude) representation meant to give you an idea of what the finished bitmap would look like on the Sense HAT. You can choose a color from the right, and click on one of the pixels to change it's color. When you're done, simply navigate to File > Save to export to BMP.
 
-It may be possible to run this program on the Raspberry Pi itself. I have before, but I don't remember what worked and what didn't. All I know is I couldn't use Wine, because it didn't work. All you should have to do is install MonoDevelop and the Mono runtime libraries, run the program from the Terminal (mono "path-to-program.exe"), and you should be good to go! Good luck!
+As of writing, file load support has not been implemented yet. Working on it, though. Also planning to add a feature that generates an executable python file that, when run, will immediately load the bitmap and display it on the Sense HAT.
 
-The source code and compiled binary are available in this repo. I will build an application installer for this program once it becomes
-fully ready. It will take a while.
-
-Once this program is in full swing, I may upload a brief tutorial on how to use this program to my YouTube channel
-(https://www.youtube.com/channel/UCq2dUyVKyvjOQHhRAtaKgxQ). Keep a lookout for that.
+The software can run on Linux using compatibility layers such as "Wine", even if thorough compatibility is not going to be a thing. However, I tested it in Pop!_OS and Linux Mint, and everything worked as intended. Good luck!
